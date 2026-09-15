@@ -3,7 +3,8 @@
 Watches the City of Ames' public document repository, summarizes each new City
 Council meeting's agenda and packet with an LLM, and emits a short digest.
 
-Deployed as a CronJob from `kubernetes/apps/civic/ames-council-digest/`.
+Deployed as a CronJob from `kubernetes/apps/civic/ames-council-digest/` in
+[mpdavis/homelab](https://github.com/mpdavis/homelab).
 
 ## How it works
 
